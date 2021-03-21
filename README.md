@@ -1,4 +1,8 @@
 # Discord Webhook Sender
+[![npm (scoped)](https://img.shields.io/npm/v/@prince25/discord-webhook-sender)](https://www.npmjs.com/package/@prince25/discord-webhook-sender)
+[![GitHub package.json Github](https://img.shields.io/github/package-json/v/prince25/discord-webhook-sender?color=orange)](https://github.com/Prince25/discord-webhook-sender/packages/682316)
+
+
 This is an updated version of the original [package](https://github.com/matthew1232/discord-webhook-node) made by [matthew1232](https://github.com/matthew1232).
 Since that package hasn't been updated recently, I decided to make a fork.
 <br>
