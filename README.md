@@ -1,5 +1,6 @@
 # Discord Webhook Sender
 [![npm (scoped)](https://img.shields.io/npm/v/@prince25/discord-webhook-sender)](https://www.npmjs.com/package/@prince25/discord-webhook-sender)
+![npm](https://img.shields.io/npm/dt/@prince25/discord-webhook-sender)
 [![GitHub package.json Github](https://img.shields.io/github/package-json/v/prince25/discord-webhook-sender?color=orange)](https://github.com/Prince25/discord-webhook-sender/packages/682316)
 
 
